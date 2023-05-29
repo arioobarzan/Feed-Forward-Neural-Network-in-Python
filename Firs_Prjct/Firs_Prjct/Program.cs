@@ -10,7 +10,7 @@ namespace Firs_Prjct
             Console.WriteLine("Plz enter a num:");
             string number = Console.ReadLine();
             num = int.Parse(number);
-            Console.WriteLine(num*3);
+            Console.WriteLine(num * 3);
             Console.ReadKey();
         }
     }
